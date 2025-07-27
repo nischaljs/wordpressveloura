@@ -1,6 +1,4 @@
-Understood — here is the **raw Markdown code** for the `README.md` file, without any rendering or formatting:
 
-```
 # 👗 Veloura – E-Commerce Clothing Shop
 
 Welcome to **Veloura**, a modern and user-friendly e-commerce clothing store built with **WordPress**. Designed for both seamless customer experiences and easy admin management, Veloura lets you showcase and sell fashion effortlessly.
@@ -50,7 +48,7 @@ Welcome to **Veloura**, a modern and user-friendly e-commerce clothing store bui
 ```bash
 git clone https://github.com/nischaljs/wordpressveloura.git
 cd wordpressveloura
-```
+
 
 ### 2. Set Up Local Server
 - Install and start **XAMPP** (or any local server environment).
