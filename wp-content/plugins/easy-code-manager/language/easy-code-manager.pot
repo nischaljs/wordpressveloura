@@ -1,0 +1,1071 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Fluent Snippets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-11 11:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.7.2; wp-6.8.1\n"
+"X-Domain: easy-code-manager"
+
+#: app/Http/Controllers/SnippetsController.php:298
+#: app/Http/Controllers/SnippetsController.php:299
+#, php-format
+msgid "%s is required"
+msgstr ""
+
+#: app/Services/Trans.php:11
+msgid ""
+"* As you have conditional logics enabled the code will run on init hook."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:526
+msgid "404 page"
+msgstr ""
+
+#: app/Services/Trans.php:12
+msgid "About"
+msgstr ""
+
+#: app/Services/Trans.php:13
+msgid "Action"
+msgstr ""
+
+#: app/Services/Trans.php:14
+msgid "Activate"
+msgstr ""
+
+#: app/Services/Trans.php:15
+msgid ""
+"Activate Snippets as default action. If disabled then it will be saved as "
+"Draft"
+msgstr ""
+
+#: app/Services/Trans.php:16
+msgid "Add"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:430
+msgid "Add CSS on all pages (frontend)."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:460
+msgid "Admin Area Footer"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:456
+msgid "Admin Area Header"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:383
+msgid "Admin Only"
+msgstr ""
+
+#: app/Services/Trans.php:17
+msgid "Admin only"
+msgstr ""
+
+#: app/Services/Trans.php:18
+msgid "Advanced Conditional Logic"
+msgstr ""
+
+#: app/Services/Trans.php:145
+msgid "after"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:418
+msgid "After Content"
+msgstr ""
+
+#: app/Services/Trans.php:19
+msgid "After post content"
+msgstr ""
+
+#: app/Services/Trans.php:20
+msgid "All Snippets"
+msgstr ""
+
+#: app/Services/Trans.php:21
+msgid "All tags"
+msgstr ""
+
+#: app/Services/Trans.php:22
+msgid "And"
+msgstr ""
+
+#: app/Services/Trans.php:23
+msgid "Apply"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:434
+msgid "Apply this snippet CSS to backend (/wp-admin/)."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:438
+msgid "Apply this snippet CSS to both backend and frontend."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:523
+msgid "Archive"
+msgstr ""
+
+#: app/Services/Trans.php:24
+msgid "Are you sure to delete this?"
+msgstr ""
+
+#: app/Services/Trans.php:25
+msgid "Ascending"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:527
+msgid "Author page"
+msgstr ""
+
+#: app/Services/Trans.php:26
+msgid "Automatically Disable Script on fatal error"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:433
+msgid "Backend"
+msgstr ""
+
+#: app/Services/Trans.php:28
+msgid "Backend footer"
+msgstr ""
+
+#: app/Services/Trans.php:27
+msgid "Backend Head"
+msgstr ""
+
+#: app/Services/Trans.php:146
+msgid "before"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:414
+msgid "Before Content"
+msgstr ""
+
+#: app/Services/Trans.php:147
+msgid "before days"
+msgstr ""
+
+#: app/Services/Trans.php:29
+msgid "Before post content"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:437
+msgid "Both Backend and Frontend"
+msgstr ""
+
+#: app/Services/Trans.php:30
+msgid "Cancel"
+msgstr ""
+
+#. %s: PHP identifier name
+#: app/Services/PhpValidator.php:229
+#, php-format
+msgid "Cannot redeclare %s."
+msgstr ""
+
+#. %s: PHP class name
+#: app/Services/PhpValidator.php:221
+#, php-format
+msgid "Cannot redeclare class %s."
+msgstr ""
+
+#. %s: PHP function name
+#: app/Services/PhpValidator.php:217
+#, php-format
+msgid "Cannot redeclare function %s."
+msgstr ""
+
+#. %s: PHP interface name
+#: app/Services/PhpValidator.php:225
+#, php-format
+msgid "Cannot redeclare interface %s."
+msgstr ""
+
+#: app/Services/Trans.php:148
+msgid "click to upload"
+msgstr ""
+
+#: app/Services/Trans.php:31
+msgid "Code"
+msgstr ""
+
+#: app/Services/Trans.php:32
+msgid "Code Snippets"
+msgstr ""
+
+#: app/Services/Trans.php:33
+msgid "Command / CTR + S to save"
+msgstr ""
+
+#: app/Services/Trans.php:34
+msgid "Condition Value"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:633
+msgid "Contact Lists"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:624
+msgid "Contact Tags"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:393
+msgid "Content"
+msgstr ""
+
+#: app/Services/Trans.php:35
+msgid "Create New"
+msgstr ""
+
+#: app/Services/Trans.php:38
+msgid "Create new group"
+msgstr ""
+
+#: app/Services/Trans.php:39
+msgid "Create new tag"
+msgstr ""
+
+#: app/Services/Trans.php:36
+msgid "Create Snippet"
+msgstr ""
+
+#: app/Services/Trans.php:37
+msgid "Create Your First Snippet"
+msgstr ""
+
+#: app/Services/Trans.php:40
+msgid "Created At"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:569
+msgid "Date"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:574
+msgid "Date Range"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:589
+msgid "Day of the week"
+msgstr ""
+
+#: app/Services/Trans.php:41
+msgid "Days"
+msgstr ""
+
+#: app/Services/Trans.php:42
+msgid "Deactivate"
+msgstr ""
+
+#: app/Services/Trans.php:149
+msgid "delete"
+msgstr ""
+
+#: app/Services/Trans.php:43
+msgid "Descending"
+msgstr ""
+
+#: app/Services/Trans.php:44
+msgid "Description"
+msgstr ""
+
+#: app/Services/Trans.php:45
+msgid "Disable Safe Mode"
+msgstr ""
+
+#: app/Services/Trans.php:46
+msgid "Disable Standalone Mode"
+msgstr ""
+
+#: app/Services/Trans.php:150
+msgid "does not equal"
+msgstr ""
+
+#: app/Services/Trans.php:47
+msgid "Does not include (in any)"
+msgstr ""
+
+#: app/Services/Trans.php:151
+msgid "does not includes"
+msgstr ""
+
+#: app/Services/Trans.php:48
+msgid "Download"
+msgstr ""
+
+#: app/Services/Trans.php:49
+msgid "Drop JSON file here or"
+msgstr ""
+
+#: app/Services/Trans.php:152
+msgid "edit"
+msgstr ""
+
+#: app/Services/Trans.php:52
+msgid "Empty"
+msgstr ""
+
+#: app/Services/Trans.php:53
+msgid "Enable Conditional Logic"
+msgstr ""
+
+#: app/Services/Trans.php:54
+msgid "Enable Editor Line Wrap"
+msgstr ""
+
+#: app/Services/Trans.php:55
+msgid "Enable Load as Stylesheet File"
+msgstr ""
+
+#: app/Services/Trans.php:56
+msgid "Enable Safe Mode Programmatically:"
+msgstr ""
+
+#: app/Services/Trans.php:57
+msgid "Enable Standalone Mode"
+msgstr ""
+
+#: app/Services/Trans.php:58
+msgid "Enabled"
+msgstr ""
+
+#: app/Services/Trans.php:153
+msgid "ends with"
+msgstr ""
+
+#: app/Services/Trans.php:154
+msgid "equal"
+msgstr ""
+
+#: app/Services/Trans.php:50
+msgid "ERROR"
+msgstr ""
+
+#: app/Services/Trans.php:59
+msgid "Error Message:"
+msgstr ""
+
+#: app/Services/Trans.php:51
+msgid "ERROR:"
+msgstr ""
+
+#: app/Services/Trans.php:60
+msgid "Error:"
+msgstr ""
+
+#: app/Services/Trans.php:61
+msgid "Everywhere"
+msgstr ""
+
+#: app/Services/Trans.php:62
+msgid "Export Select Snippets"
+msgstr ""
+
+#: app/Services/Trans.php:63
+msgid "Export Snippets"
+msgstr ""
+
+#: app/Services/Trans.php:64
+msgid "Export/Import"
+msgstr ""
+
+#: app/Services/Trans.php:65
+msgid "Failed to copy shortcode"
+msgstr ""
+
+#. Name of the plugin
+#. Author of the plugin
+#: app/Hooks/Handlers/AdminMenuHandler.php:26
+msgid "Fluent Snippets"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:610
+msgid "FluentCRM"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:27
+msgid "FluentSnippets"
+msgstr ""
+
+#: app/Services/Trans.php:66
+msgid "For easily filter your snippets."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:597
+msgid "Friday"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:429
+msgid "Frontend"
+msgstr ""
+
+#: app/Services/Trans.php:67
+msgid "Frontend body open"
+msgstr ""
+
+#: app/Services/Trans.php:68
+msgid "Frontend footer"
+msgstr ""
+
+#: app/Services/Trans.php:69
+msgid "Frontend head"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:387
+msgid "Frontend Only"
+msgstr ""
+
+#: app/Services/Trans.php:70
+msgid "Frontend only"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:374
+msgid "Functions"
+msgstr ""
+
+#: app/Services/Trans.php:71
+msgid "General Settings"
+msgstr ""
+
+#: app/Services/Trans.php:72
+msgid "Greater Than"
+msgstr ""
+
+#: app/Services/Trans.php:73
+msgid "Grouped"
+msgstr ""
+
+#: app/Services/Trans.php:74
+msgid "Hide Errors"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:522
+msgid "Homepage"
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://fluentsnippets.com"
+msgstr ""
+
+#: app/Services/Trans.php:155
+msgid ""
+"if you enable this then the snippet will be loaded as a stylesheet file."
+msgstr ""
+
+#: app/Services/Trans.php:75
+msgid "Import / Export Snippets"
+msgstr ""
+
+#: app/Services/Trans.php:76
+msgid "Import Snippets"
+msgstr ""
+
+#: app/Services/Trans.php:77
+msgid "Imported Snippets"
+msgstr ""
+
+#: app/Services/Trans.php:156
+msgid "in the date"
+msgstr ""
+
+#: app/Services/Trans.php:157
+msgid "includes"
+msgstr ""
+
+#: app/Services/Trans.php:158
+msgid "includes all of"
+msgstr ""
+
+#: app/Services/Trans.php:159
+msgid "includes in"
+msgstr ""
+
+#: app/Services/Trans.php:160
+msgid "includes none of (match all)"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:407
+msgid "Insert snippet after the opening body tag of your website (frontend)."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:415
+msgid "Insert snippet at the beginning of single post/page content."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:419
+msgid "Insert snippet at the end of single post/page content."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:411
+msgid ""
+"Insert snippet before the closing body tag of your website on all pages "
+"(frontend)."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:403
+msgid "Insert snippet between the head tags of your website (frontend)."
+msgstr ""
+
+#: app/Services/Trans.php:78
+msgid "Internal Description for this snippet"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:147
+msgid ""
+"Invalid file format. Please upload a JSON file that is exported from Fluent "
+"Snippets"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:49
+#: app/Hooks/Handlers/AdminMenuHandler.php:131
+msgid "Invalid nonce."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:614
+msgid "Is a CRM Contact?"
+msgstr ""
+
+#: app/Services/Trans.php:79
+msgid ""
+"It seems like you are using some hooks that may not work correctly, because "
+"this code will run after the mentioned hooks:"
+msgstr ""
+
+#: app/Services/Trans.php:80
+msgid "Less Than"
+msgstr ""
+
+#: app/Services/Trans.php:81
+msgid "Load as Stylesheet File"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:356
+msgid "Loading Snippets.."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:492
+msgid "Logged-in"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:593
+msgid "Monday"
+msgstr ""
+
+#: app/Services/Trans.php:82
+msgid "Name"
+msgstr ""
+
+#: app/Services/Trans.php:83
+msgid "Name cannot be empty"
+msgstr ""
+
+#: app/Services/Trans.php:84
+msgid "New Snippet"
+msgstr ""
+
+#: app/Services/Trans.php:85
+msgid "No Snippets Found based on your filter"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:64
+#: app/Hooks/Handlers/AdminMenuHandler.php:76
+msgid "No snippets selected."
+msgstr ""
+
+#: app/Services/Trans.php:86
+msgid "Not Empty"
+msgstr ""
+
+#: app/Services/Trans.php:161
+msgid "not equal"
+msgstr ""
+
+#: app/Services/Trans.php:162
+msgid "not includes in"
+msgstr ""
+
+#: app/Services/Trans.php:163
+msgid "not within"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:399
+msgid "Only display when inserted into a post or page using shortcode"
+msgstr ""
+
+#: app/Services/Trans.php:87
+msgid "OR"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:512
+msgid "Page"
+msgstr ""
+
+#: app/Services/PhpValidator.php:270
+msgid "Parse error: syntax error, unexpected end of snippet"
+msgstr ""
+
+#: app/Services/PhpValidator.php:203
+msgid "Parse error: syntax error, unexpected end of snippet."
+msgstr ""
+
+#: app/Services/Trans.php:88
+msgid "PAUSED"
+msgstr ""
+
+#: app/Services/Trans.php:89
+msgid "Paused"
+msgstr ""
+
+#: app/Services/Trans.php:90
+msgid "Please enter a keyword"
+msgstr ""
+
+#: app/Services/Trans.php:91
+msgid "Please enter a name for the snippet"
+msgstr ""
+
+#: app/Services/Trans.php:92
+msgid "Please enter some code to save"
+msgstr ""
+
+#: app/Services/Trans.php:93
+msgid "Please select which snippets you would like to export:"
+msgstr ""
+
+#: app/Services/Trans.php:94
+msgid "Please upload Code Snippets JSON file to import"
+msgstr ""
+
+#: app/Services/Trans.php:95
+msgid "Please upload Snippets only trusted sources."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:531
+msgid "Post Type"
+msgstr ""
+
+#: app/Services/Trans.php:96
+msgid "Priority"
+msgstr ""
+
+#: app/Services/Trans.php:97
+msgid "Provide Name"
+msgstr ""
+
+#: app/Services/Trans.php:98
+msgid "Publish"
+msgstr ""
+
+#: app/Services/Trans.php:99
+msgid "Publish All Imported Snippets"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:112
+msgid "Return Data is not valid. Return data need to be string or number"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:379
+msgid "Run Everywhere"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:453
+msgid ""
+"Run Javascript before the closing body tag of your website on all pages "
+"(frontend)."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:449
+msgid ""
+"Run Javascript between the head tags of your website on all pages (frontend)."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:461
+msgid "Run Javascript in admin area (/wp-admin/) before the closing body tag."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:457
+msgid "Run Javascript in admin area (/wp-admin/)."
+msgstr ""
+
+#: app/Services/Trans.php:100
+msgid "Safe Mode"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:112
+msgid "Safe mode has been disabled"
+msgstr ""
+
+#: app/Services/Trans.php:101
+msgid "Safe Mode is Enabled"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:598
+msgid "Saturday"
+msgstr ""
+
+#: app/Services/Trans.php:102
+msgid "Save"
+msgstr ""
+
+#: app/Services/Trans.php:103
+msgid "Save Settings"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:443
+msgid "Scripts"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:525
+msgid "Search page"
+msgstr ""
+
+#: app/Services/Trans.php:109
+msgid "Select all snippets"
+msgstr ""
+
+#: app/Services/Trans.php:104
+msgid "Select Operator"
+msgstr ""
+
+#: app/Services/Trans.php:105
+msgid "Select Option"
+msgstr ""
+
+#: app/Services/Trans.php:106
+msgid "Select Snippet Group"
+msgstr ""
+
+#: app/Services/Trans.php:107
+msgid "Select Snippet Run Location"
+msgstr ""
+
+#: app/Services/Trans.php:108
+msgid "Select Snippet Tags"
+msgstr ""
+
+#: app/Services/Trans.php:164
+msgid "selected"
+msgstr ""
+
+#: app/Services/Trans.php:110
+msgid "Settings"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:90
+msgid "Settings has been successfully updated"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:398
+msgid "Shortcode"
+msgstr ""
+
+#: app/Services/Trans.php:111
+msgid "Shortcode copied to clipboard"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:123
+msgid "Shortcode could not be rendered"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:524
+#: app/Hooks/Handlers/AdminMenuHandler.php:558
+msgid "Single Post/Page/CPT"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:406
+msgid "Site Wide Body Open"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:410
+#: app/Hooks/Handlers/AdminMenuHandler.php:452
+msgid "Site Wide Footer"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:402
+#: app/Hooks/Handlers/AdminMenuHandler.php:448
+msgid "Site Wide Header"
+msgstr ""
+
+#: app/Services/Trans.php:165
+msgid "skipped"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:189
+msgid "Snippet already exists"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:95
+msgid "Snippet condition is not valid"
+msgstr ""
+
+#: app/Http/Controllers/SnippetsController.php:149
+msgid "Snippet created successfully"
+msgstr ""
+
+#: app/Services/Trans.php:115
+msgid "Snippet details"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:380
+msgid "Snippet gets executed everywhere (both frontend and admin area)"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:384
+msgid "Snippet gets executed only in admin area (/wp-admin/)"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:388
+msgid "Snippet gets executed only in frontend area"
+msgstr ""
+
+#: app/Services/Trans.php:112
+msgid "Snippet Group"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:71
+msgid "Snippet has an error"
+msgstr ""
+
+#: app/Http/Controllers/SnippetsController.php:288
+msgid "Snippet has been deleted successfully"
+msgstr ""
+
+#: app/Services/Trans.php:116
+msgid "Snippet has been updated successfully"
+msgstr ""
+
+#: app/Services/Trans.php:113
+msgid "Snippet Name"
+msgstr ""
+
+#: app/Services/Trans.php:114
+msgid "Snippet Name is required"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:85
+msgid "Snippet run at is not shortcode"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:89
+msgid "Snippet status is not published"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:81
+msgid "Snippet type is not PHP Content"
+msgstr ""
+
+#: app/Services/Trans.php:117
+msgid "Snippets"
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:66
+msgid "Snippets are disabled"
+msgstr ""
+
+#: app/Services/Trans.php:118
+msgid "Something went wrong. Please check the errors."
+msgstr ""
+
+#: app/Services/Trans.php:119
+msgid "Sorry Snippet could not be loaded"
+msgstr ""
+
+#: app/Services/Trans.php:120
+msgid "Sorry, no snippets found based on your filter."
+msgstr ""
+
+#: app/Services/Trans.php:121
+msgid "Sort"
+msgstr ""
+
+#: app/Services/Trans.php:122
+msgid "Sort By"
+msgstr ""
+
+#: app/Services/Trans.php:123
+msgid "Standalone Mode (Must use mode)"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:126
+msgid "Standalone mode has been activated"
+msgstr ""
+
+#: app/Http/Controllers/SettingsController.php:128
+msgid "Standalone mode has been deactivated"
+msgstr ""
+
+#: app/Services/Trans.php:166
+msgid "starts with"
+msgstr ""
+
+#: app/Services/Trans.php:124
+msgid "Status"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:424
+msgid "Styles"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:599
+msgid "Sunday"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Super Fast File Based Native Code Snippets (header / footer codes) Manager "
+"for WordPress"
+msgstr ""
+
+#: app/Services/Trans.php:125
+msgid "Table"
+msgstr ""
+
+#: app/Services/Trans.php:126
+msgid "Tags"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:538
+msgid "Taxonomy Page"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:545
+msgid "Taxonomy Term Page"
+msgstr ""
+
+#: app/Services/Trans.php:127
+msgid "Thanks for installing FluentSnippets"
+msgstr ""
+
+#: app/Services/Trans.php:129
+msgid "The code should not start with <?php"
+msgstr ""
+
+#: app/Services/Trans.php:128
+msgid "The High-Performance Code Snippets Plugin for WordPress"
+msgstr ""
+
+#: app/Services/Trans.php:130
+msgid "The lower the number, the earlier to execute the snippet."
+msgstr ""
+
+#: app/Services/Trans.php:144
+msgid ""
+"The snippet encountered an fatal error and It has been deactivated "
+"automatically. Please review your code, fix the issues and reactive."
+msgstr ""
+
+#: app/Services/Trans.php:131
+msgid "The snippets are being saved as Draft. Please review and publish."
+msgstr ""
+
+#: app/Hooks/Handlers/CodeHandler.php:125
+msgid "This message is only visible to site admin role"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:596
+msgid "Thursday"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:582
+msgid "Time Range"
+msgstr ""
+
+#: app/Services/Trans.php:132
+msgid "Title"
+msgstr ""
+
+#: app/Services/Trans.php:133
+msgid "Try Reactivate"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:594
+msgid "Tuesday"
+msgstr ""
+
+#: app/Services/Trans.php:134
+msgid "Type"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:516
+msgid "Type of page"
+msgstr ""
+
+#: app/Services/Trans.php:135
+msgid "Update Snippet"
+msgstr ""
+
+#: app/Services/Trans.php:136
+msgid "Updated At"
+msgstr ""
+
+#: app/Services/Trans.php:137
+msgid "Updated At:"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:553
+msgid "URL"
+msgstr ""
+
+#: app/Services/Trans.php:138
+msgid "Use Shortcode to display the return or print content of this snippet:"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:488
+msgid "User"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:502
+msgid "User Role"
+msgstr ""
+
+#: app/Services/Trans.php:143
+msgid ""
+"We highly recommend to enable this option. If disabled, then your site may "
+"go down if there has any error on the scripts."
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:595
+msgid "Wednesday"
+msgstr ""
+
+#: app/Services/Trans.php:139
+msgid "Where to Run?"
+msgstr ""
+
+#: app/Services/Trans.php:167
+msgid "within"
+msgstr ""
+
+#: app/Services/Trans.php:168
+msgid "within days"
+msgstr ""
+
+#: app/Services/Trans.php:140
+msgid "You can view the shortcode after save this snippet"
+msgstr ""
+
+#: app/Hooks/Handlers/AdminMenuHandler.php:41
+#: app/Hooks/Handlers/AdminMenuHandler.php:123
+msgid "You do not have permission to perform this action."
+msgstr ""
+
+#: app/Services/Trans.php:141
+msgid "You may group your snippets for better organization and easy to find."
+msgstr ""
+
+#: app/Services/Trans.php:142
+msgid "Your Snippet Name"
+msgstr ""

@@ -1,0 +1,1 @@
+.depicter-form-message-layer .depicter-layer{display:flex;gap:10px}.depicter-form-message-layer .depicter-layer::before{display:block;content:"";background-image:url(.././form-message/assets/error-icon.svg);width:20px;height:18px}
